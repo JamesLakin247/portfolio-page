@@ -86,7 +86,7 @@ li {
     width: 100%;
     max-width: 800px;
     margin: 0 auto;
-    margin-bottom: 40px;
+    /* margin-bottom: 40px; */
     padding: 0 12px;
 }
 
@@ -180,7 +180,10 @@ ABOUT ME
     max-width: 600px;
     margin: 20px auto;
     text-align: center;
+}
 
+.about-me__info--container {
+    margin-bottom: 60px;
 }
 
 .project__info--container {
@@ -440,6 +443,8 @@ PROJECTS
 
 .project-list-item {
     margin: 5px 0;
+    margin-bottom: 15px;
+    font-size: 20px;
 }
 
 .open-project-link {
