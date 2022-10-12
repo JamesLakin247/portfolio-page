@@ -580,9 +580,9 @@ MEDIA
         font-size: 28px;
     }
 
-    .about-me__info--para {
+    /* .about-me__info--para {
         font-size: 18px;
-    }
+    } */
 
     .language {
         width: calc(100% / 2);
